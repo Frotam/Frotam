@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sidhant;Frontend+Developer;Learning+AI+%2F+ML;Building+Cool+Projects+🚀" />
+  <img width="640" height="360" alt="From-KlickPin-CF-Video-Happy-bir-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/df5d71d0-6b98-4690-89b4-cab1ddd06ba4" />
 </h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -139,7 +139,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frotam&theme=tokyonight" height="170"/>
 
 </p>
-## 🚀 Featured Projects
+
 
 <p align="center">
 
