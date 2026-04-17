@@ -150,17 +150,5 @@
 
 </p>
 
----
-
-# ✨ Profile Views Counter
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Frotam&label=Profile%20views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
 # ⚡ Fun Fact
 I love building UI + exploring AI tools 🤖
