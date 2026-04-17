@@ -139,12 +139,35 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frotam&theme=tokyonight" height="170"/>
 
 </p>
-<a href="https://github.com/Frotam/Beep" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=Android-Room-Database-Backup&theme=gruvbox""></a>
-<a href="https://github.com/rafi0101/Stundenplan" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=Stundenplan&theme=gruvbox""></a>
-<a href="https://github.com/rafi0101/traefik-ssl-certificate-exporter" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=traefik-ssl-certificate-exporter&theme=gruvbox""></a>
-<a href="https://github.com/rafi0101/logstash-pipelines" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=logstash-pipelines&theme=gruvbox""></a>  
+## 🚀 Featured Projects
 
----
+<p align="center">
+
+<a href="https://github.com/Frotam/Beep">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Frotam&repo=Beep&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/Frotam/BeGamer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Frotam&repo=BeGamer&theme=tokyonight"/>
+</a>
+
+<br>
+
+<a href="https://github.com/Frotam/chai_buy">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Frotam&repo=chai_buy&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/Frotam/ten-days-of-voice-agents">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Frotam&repo=ten-days-of-voice-agents&theme=tokyonight"/>
+</a>
+
+<br>
+
+<a href="https://github.com/Frotam/farmer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Frotam&repo=farmer&theme=tokyonight"/>
+</a>
+
+</p>
 
 # 🧠 Most Used Languages
 
