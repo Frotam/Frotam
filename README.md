@@ -2,7 +2,7 @@
   <img width="640" height="360" alt="From-KlickPin-CF-Video-Happy-bir-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/df5d71d0-6b98-4690-89b4-cab1ddd06ba4" />
 </h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate  developer from India</h3>
 
 ---
 
